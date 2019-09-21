@@ -1,0 +1,13 @@
+{
+  "name": "emoji-speaking",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@sanity/client": "^0.142.0",
+    "gridsome": "^0.7.0"
+  }
+}
